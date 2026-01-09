@@ -5,6 +5,8 @@ A faithful recreation of the classic Minesweeper game, built using **C++** and t
 
 This project was originally developed in **2023** as a university coursework project. In **2026**, I revisited and refactored the codebase to modernize it for **Apple Silicon (M-series)** architecture and migrate it from SFML 2.5 to the latest **SFML 3.0**, demonstrating my ability to maintain and update legacy software.
 
+### 🎥 Gameplay Demo
+[![Watch the Demo](https://img.youtube.com/vi/-M4P1IN_Eqc/0.jpg)](https://www.youtube.com/watch?v=-M4P1IN_Eqc)
 ---
 
 ## 🎮 Features
